@@ -12,10 +12,10 @@
   },
   "repository" : {
     "type" : "git",
-    "url"  : "git://github.com/matthieua/WOW.git"
+    "url"  : "git://github.com/graingert/WOW.git"
   },
   "bugs" : {
-    "url" : "https://github.com/matthieua/WOW/issues"
+    "url" : "https://github.com/graingert/WOW/issues"
   },
   "licenses": [{
     "type": "MIT",
