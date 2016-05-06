@@ -38,7 +38,13 @@ It just take seconds to install and use WOW.js!
 - Bower
 
 ```bash
-   bower install wowjs
+   bower install wow-mit
+```
+
+- NPM
+
+```bash
+   npm install wow.js
 ```
 
 ### Basic usage
